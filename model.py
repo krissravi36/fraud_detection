@@ -9,4 +9,4 @@ def model2():
 def model3():
     print ("adding code for ML model 3")
 
-print ("Model2 is the best");
+print ("Model3 is the best");
